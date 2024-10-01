@@ -10,7 +10,7 @@
         scanf("%d", &marks);
 
         strcpy (result_one,"pass");
-        strcpy (result_two, "fail");
+        strcpy (result_two,"fail");
 
         if (marks < 40)
         {
